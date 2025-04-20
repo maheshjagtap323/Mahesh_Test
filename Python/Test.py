@@ -1,1 +1,3 @@
-print ("Hello World 12345")
+print ("Hello World 1234578")
+
+from new import *
